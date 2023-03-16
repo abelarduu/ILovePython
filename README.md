@@ -1,12 +1,12 @@
 <div align="center">
 <div>
-<img src="img/ILovePython icon.png" alt="ILovePython icon">
+<img src="img/ILovePython icon.png" type="image/png" alt="ILovePython icon">
 </div>
 
 <div>
   <h4></h4>
   <figure>
-    <img src="img/interface.png" alt="Interface do ILovePython"></br>
+    <img src="img/interface.png" type="image/png" alt="Interface do ILovePython"></br>
     <figcaption>Aba/Interface do ILovePython</figcaption>
   </figure>
 </div>
@@ -23,7 +23,7 @@
 
 <div>
   <h3>Resultado</h3>
-  <img src="img/ILovePython.gif" alt="ILovePython gif">
+  <img src="img/ILovePython.gif" type="image/gif" alt="ILovePython gif">
 </div>
 </div>
 </div>
