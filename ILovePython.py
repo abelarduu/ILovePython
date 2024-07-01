@@ -1,7 +1,3 @@
-###################
-# ILovePython App #
-###################
-#Importações necessárias
 from customtkinter import CTk,CTkLabel,CTkImage,CTkButton,set_appearance_mode
 from os.path import dirname
 from random import randint
